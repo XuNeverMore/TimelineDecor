@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TimelineDecor</string>
+
+    <string-array name="transport_list">
+        <item>客户签收：他人代收感谢使用圆通速递</item>
+        <item>【广东深圳西南公司】派件中，派件人：孙悟空派件员电话18888888888</item>
+        <item>【深圳转运公司已收入】</item>
+        <item>【北京转运中心收入】下一站\n【深圳转运中心】</item>
+        <item>【北京转运中心收入】</item>
+        <item>已发货</item>
+    </string-array>
+</resources>

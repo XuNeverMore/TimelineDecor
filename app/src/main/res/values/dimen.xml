@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="time_line_width">40dp</dimen>
+    <dimen name="time_line_top">15dp</dimen>
+    <dimen name="time_going_size">25dp</dimen>
+</resources>
